@@ -53,13 +53,4 @@ npm run lint
 - `date-fns` for date handling
 - `lucide-react` for icons
 
-## Customize
-
-Update the calendar content or add new features in the `src/components/WallCalendar` folder. The app uses the App Router and client-side state for calendar interactions.
-
 ## Deployment
-
-This app can be deployed anywhere that supports Next.js, such as Vercel, Netlify, or a custom Node.js host.
-
-For Vercel deployment, you can use the official guides:
-- https://nextjs.org/docs/app/building-your-application/deploying
